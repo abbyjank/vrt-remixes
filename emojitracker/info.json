@@ -1,12 +1,12 @@
 {
   "author": [
-    "Vertyco"
+    "FenixRise"
   ],
-  "description": "A simple guild emoji tracker",
+  "description": "Track custom emojis in text channels and threads, with features for self-reaction counts, leaderboards, and unused/least used emojis.",
   "disabled": false,
   "end_user_data_statement": "This cog stores Discord ID's",
   "hidden": false,
-  "install_msg": "Thank you for installing EmojiTracker! type `[p]help EmojiTracker` to see all commands.\n\nDOCUMENTATION: https://github.com/vertyco/vrt-cogs/blob/main/emojitracker/README.md",
+  "install_msg": "Thank you for installing EmojiTracker! Type `[p]help EmojiTracker` to see all commands.\n\nDOCUMENTATION: https://github.com/abbyjank/vrt-remixes/blob/main/emojitracker/README.md",
   "min_bot_version": "3.4.0",
   "min_python_version": [
     3,
@@ -20,7 +20,7 @@
   "requirements": [
     "tabulate"
   ],
-  "short": "Emoji tracker",
+  "short": "Track custom emojis in channels and threads.",
   "tags": [
     "emoji",
     "tracker",

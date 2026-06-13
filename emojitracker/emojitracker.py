@@ -34,7 +34,7 @@ class EmojiTracker(commands.Cog):
     including reactions within Threads.
     """
 
-    __author__ = "[vertyco](https://github.com/vertyco/vrt-cogs)"
+    __author__ = "[FenixRise](https://github.com/abbyjank/vrt-remixes)"
     __version__ = "0.5.0"
 
     def format_help_for_context(self, ctx):
